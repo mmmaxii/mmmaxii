@@ -1,19 +1,23 @@
-<p align="center"> <img src="docs/observatorio.jpg" width="100%" alt="Observatorio UC al atardecer"> </p>
+<p align="center"> <img src="docs/observatory.jpg" width="100%" alt="UC Observatory at dusk"> </p> <p align="center"> <a href="https://valderramam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-11161d?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/mmmaxii"><img src="https://img.shields.io/badge/GitHub-11161d?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://linkedin.com/in/maximiliano-valderrama-vargas"><img src="https://img.shields.io/badge/LinkedIn-11161d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-Astronomía (PUC, 2026) → backend, por cuenta propia. Voy hacia software engineering y finanzas cuantitativas.
+BSc in Astronomy (PUC Chile, 2026), self-taught backend developer. Heading toward software engineering and quantitative finance.
 
-Escribo código para mirar cosas: discos protoplanetarios, geodésicas en métricas de Schwarzschild, cubos de campo integral. Ahora uso el mismo hábito para construir producto.
+I write code to look at things: protoplanetary disks, geodesics in Schwarzschild metrics, integral-field data cubes. Now I point the same habit at building product.
 
-ifu-rgb — de cubo IFU a composición RGB por líneas de emisión. MUSE y MaNGA, resta de continuo local por bandas laterales, stretch asinh, ventanas definidas en velocidad.
+Building
 
-<p align="center"> <img src="docs/ngc5972_rgb.png" width="62%" alt="NGC 5972 en Halpha, [O III] y Hbeta"> <br> <sub>NGC 5972 — Hα / [O III]λ5007 / Hβ desde el cubo MUSE. El verde es el gas ionizado por el AGN; el rojo, el disco.</sub> </p>
+<img src="https://www.google.com/s2/favicons?domain=decoia.cl&sz=64" height="16" align="top">  DecoIA — AI interior design SaaS, zero to production. Photograph a room, get coherent furniture recommendations with real products. Django · React · Supabase.
 
-Asterion — agente RAG sobre ADS, SIMBAD, Gaia, VizieR y el NASA Exoplanet Archive. Búsqueda híbrida con pgvector sobre 47.000 papers, 35 herramientas, 400+ tests.
+<img src="https://www.google.com/s2/favicons?domain=asterion-rag.vercel.app&sz=64" height="16" align="top">  Asterion — RAG research agent over ADS, SIMBAD, Gaia, VizieR and the NASA Exoplanet Archive. Hybrid search with pgvector across 47,000 papers, 35 tools, 400+ tests. Python · LangChain · FastAPI.
 
-DecoIA — SaaS de diseño de interiores con IA, de cero a producción. Django, React, Supabase.
+Astrophysics
 
-PA3Py — acreción de guijarros en discos protoplanetarios. neural-geodesics — red neuronal para trazado de rayos relativista. photonic-inverse-design — optimización por gradiente sobre Maxwell con reparametrización CNN.
+<img src="https://img.shields.io/badge/-11161d?style=flat-square&logo=github&logoColor=white" height="16" align="top">  PA3Py — pebble accretion in protoplanetary disks.
+
+<img src="https://img.shields.io/badge/-11161d?style=flat-square&logo=github&logoColor=white" height="16" align="top">  neural-geodesics — neural network for relativistic ray tracing around black holes.
+
+<img src="https://img.shields.io/badge/-11161d?style=flat-square&logo=github&logoColor=white" height="16" align="top">  photonic-inverse-design — gradient-based optimization over Maxwell with CNN reparametrization.
+
+<img src="https://img.shields.io/badge/-11161d?style=flat-square&logo=github&logoColor=white" height="16" align="top">  Simulacion-lente-gravitacional — gravitational lensing simulation, SIS model with external shear.
 
 Python · Django · FastAPI · PostgreSQL · pgvector · PyTorch · React · Next.js
-
-valderramam.vercel.app · LinkedIn
