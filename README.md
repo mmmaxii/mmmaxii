@@ -1,17 +1,1 @@
-Maxi Valderrama
-<p align="center"> <img src="https://cdn.eso.org/images/large/eso1407d.jpg" width="60%" alt="Nebulosa de Orión reconstruida a partir de un cubo de datos de MUSE"/> <br/> <sub><i>Orión reconstruida a partir de un cubo de datos de MUSE (espectroscopía de campo integral) — la misma técnica con la que mapeé líneas de emisión en NGC 5972 · ESO/MUSE consortium, R. Bacon</i></sub> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6C7DFF&center=true&vCenter=true&width=560&lines=Licenciado+en+Astronom%C3%ADa;Backend+Developer%2C+autodidacta;Camino+a+Quant+%2F+Software+Engineer" alt="typing" /> </p> <p align="center"> <a href="https://valderramam.vercel.app"><img src="https://img.shields.io/badge/portafolio-mapa%20estelar-6C7DFF?style=flat-square" /></a> <a href="https://linkedin.com/in/maximiliano-valderrama-vargas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> </p>
-
-Astrónomo que se pasó al desarrollo de software por cuenta propia. Antes de escribir backend, escribía código para simular discos protoplanetarios, trazar geodésicas de agujeros negros y mapear galaxias línea por línea con espectroscopía de campo integral (IFU) — esa misma costumbre de modelar sistemas complejos es la que uso ahora para construir producto. Fundé y opero DecoIA, una plataforma de diseño de interiores con IA, y desarrollo Asterion, un agente RAG para investigación astronómica. Siguiente parada: software engineering y finanzas cuantitativas.
-
-En qué estoy trabajando
-Proyecto	Descripción	Stack
-DecoIA	SaaS que genera recomendaciones y renders de decoración a partir de una foto del espacio, con productos reales vía Mercado Libre	Django · React · Supabase · Gemini
-Asterion	Agente RAG sobre NASA Exoplanet Archive, ADS, SIMBAD, Gaia y VizieR — búsqueda híbrida con pgvector sobre +47.000 papers, 35 herramientas, 400+ tests	Python · LangChain · pgvector · FastAPI
-Proyectos destacados
-<table> <tr> <td><a href="https://github.com/mmmaxii/PA3Py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmmaxii&repo=PA3Py&theme=tokyonight" /></a></td> <td><a href="https://github.com/mmmaxii/neural-geodesics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmmaxii&repo=neural-geodesics&theme=tokyonight" /></a></td> </tr> <tr> <td><a href="https://github.com/mmmaxii/photonic-inverse-design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmmaxii&repo=photonic-inverse-design&theme=tokyonight" /></a></td> <td><a href="https://github.com/mmmaxii/Simulacion-lente-gravitacional"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmmaxii&repo=Simulacion-lente-gravitacional&theme=tokyonight" /></a></td> </tr> </table>
-Stack
-
-Python Django FastAPI React Next.js TypeScript Vite PostgreSQL Supabase SQLite PyTorch TensorFlow LangChain Git Vercel Render Railway
-
-Actividad
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mmmaxii&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaxii&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=mmmaxii&theme=tokyonight&hide_border=true" width="80%" /> </p>
+Hi there
