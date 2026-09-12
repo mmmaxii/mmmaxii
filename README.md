@@ -8,7 +8,7 @@ Building
 
 <img src="https://www.google.com/s2/favicons?domain=decoia.cl&sz=64" height="16" align="top">  DecoIA — AI interior design SaaS, zero to production. Photograph a room, get coherent furniture recommendations with real products. Django · React · Supabase.
 
-<img src="https://www.google.com/s2/favicons?domain=asterion-rag.vercel.app&sz=64" height="16" align="top">  Asterion — RAG research agent over ADS, SIMBAD, Gaia, VizieR and the NASA Exoplanet Archive. Hybrid search with pgvector across 47,000 papers, 35 tools, 400+ tests. Python · LangChain · FastAPI.
+<img src="https://asterion-rag.vercel.app/asterion.svg" height="16" align="top">  Asterion — RAG research agent over ADS, SIMBAD, Gaia, VizieR and the NASA Exoplanet Archive. Hybrid search with pgvector across 47,000 papers, 35 tools, 400+ tests. Python · LangChain · FastAPI.
 
 Astrophysics
 
